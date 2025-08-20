@@ -22,13 +22,7 @@ A lógica do jogo é organizada em funções principais:
 
 ## Como Usar
 
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/jogo-da-velha.git
-   cd jogo-da-velha
-2. **Abra o arquivo HTML** no navegador.
-3. **Insira os nomes dos jogadores** nos campos apropriados e clique em "Iniciar Jogo" para começar a partida.
-4. **Clique nas regiões do tabuleiro** para fazer suas jogadas.
+https://mateusfgc.github.io/jogo-da-velha/
 
 ## Tecnologias Utilizadas
 
